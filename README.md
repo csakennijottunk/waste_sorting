@@ -1,0 +1,3 @@
+# Waste Sorting
+
+### Játék működése
